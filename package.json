@@ -1,0 +1,23 @@
+{
+  "name": "mission-5",
+  "version": "1.0.0",
+  "description": "Mission 5 Phase 1 - Trade Me API Challenge",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/server.js",
+    "seed": "node seed/seed.js seed",
+    "clear": "node seed/seed.js clear"
+  },
+  "keywords": [],
+  "author": "Adam Price",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
