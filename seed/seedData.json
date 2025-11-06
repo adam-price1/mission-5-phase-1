@@ -1,20 +1,32 @@
 [
   {
-    "title": "Canon 750D DSLR Camera",
-    "description": "Great entry-level DSLR with 18-55mm kit lens.",
+    "title": "EcoFlow Smart Water Bottle",
+    "description": "Tracks hydration and reminds you to drink water. Includes Bluetooth app support.",
+    "start_price": 45,
+    "reserve_price": 65
+  },
+  {
+    "title": "Nova Bluetooth Headphones",
+    "description": "Noise-cancelling wireless headphones with 30-hour battery life and crystal-clear sound.",
+    "start_price": 120,
+    "reserve_price": 160
+  },
+  {
+    "title": "Aurora LED Desk Lamp",
+    "description": "Minimalist LED lamp with adjustable brightness and color temperature.",
+    "start_price": 60,
+    "reserve_price": 90
+  },
+  {
+    "title": "Luna Smart Alarm Clock",
+    "description": "Sunrise-simulation alarm clock with wireless charging and Spotify integration.",
+    "start_price": 80,
+    "reserve_price": 110
+  },
+  {
+    "title": "Atlas Portable Projector",
+    "description": "Compact HD projector with Wi-Fi streaming—perfect for movie nights anywhere.",
     "start_price": 250,
-    "reserve_price": 400
-  },
-  {
-    "title": "Sony A6000 Mirrorless Camera",
-    "description": "Fast autofocus, perfect for travel and portraits.",
-    "start_price": 450,
-    "reserve_price": 650
-  },
-  {
-    "title": "Apple iPhone 13 Pro 128GB",
-    "description": "Like-new condition, includes box and charger.",
-    "start_price": 800,
-    "reserve_price": 1000
+    "reserve_price": 320
   }
 ]
